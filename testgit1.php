@@ -1,4 +1,4 @@
 <?php
  ## echo  phpinfo(); 
-   $array=array('A','B','C','D');
+   $array=array('A','B','C','D','E','F');
 ?>
